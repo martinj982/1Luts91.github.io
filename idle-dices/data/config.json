@@ -22,7 +22,7 @@
                 "costIncrease": 0.000000000000000000001,
                 "valueIncrease": 99999999999999999999999999999999999999999999999999999999999999999999999999,
                 "initialLevel": 1,
-                "ascentIncrease": 100000
+                "ascentIncrease": 1
             },
             {
                 "startD": 2,
