@@ -19,8 +19,8 @@
                 "startD": 2,
                 "cost": 10,
                 "value": 0,
-                "costIncrease": 1.08,
-                "valueIncrease": 1,
+                "costIncrease": 1.01,
+                "valueIncrease": 999999999999999999999999,
                 "initialLevel": 1,
                 "ascentIncrease": 100000
             },
